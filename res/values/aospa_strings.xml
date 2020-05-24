@@ -92,4 +92,9 @@
     <!-- Navbar -->
     <string name="navbar_tuner_title">Navbar tuner</string>
     <string name="navbar_tuner_summary">Customize your navbar layout</string>
+
+    <!-- Navigation bar hint -->
+    <string name="navbar_category">Navigation bar</string>
+    <string name="hide_navbar_gesture_bar_title">Hide gesture bar</string>
+    <string name="hide_navbar_gesture_bar_summary">Hide the gesture bar at the bottom of the screen</string>
 </resources>
