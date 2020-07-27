@@ -107,4 +107,9 @@
     <string name="back_options_dialog_title">Options</string>
     <string name="back_height_title">Back height</string>
     <string name="back_height_message">Amount of screen height used as a touchable region for back gesture</string>
+
+    <!-- Cycle through ringer modes gesture -->
+    <string name="prevent_ringing_option_cycle">Cycle through modes</string>
+    <string name="prevent_ringing_option_cycle_summary">On (cycle through modes)</string>
+
 </resources>
