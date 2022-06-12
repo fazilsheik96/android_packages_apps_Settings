@@ -70,12 +70,6 @@
         android:fragment="com.android.settings.deviceinfo.batteryinfo.BatteryInfoFragment"
         settings:keywords="@string/keywords_battery_info"/>
 
-    <com.android.settingslib.widget.FooterPreference
-        android:key="power_usage_footer"
-        android:title="@string/battery_footer_summary"
-        android:selectable="false"
-        settings:searchable="false" />
-
     <Preference
         android:key="charging_control"
         android:title="@string/charging_control_title"
