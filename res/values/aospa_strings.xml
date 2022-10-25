@@ -170,4 +170,7 @@
     <!-- Volume Media output -->
     <string name="volume_panel_media_output_title">Media Output Icon</string>
     <string name="volume_panel_media_output_summary">Show the media output icon when media is playing.</string>
+
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Additional sounds</string>
 </resources>
