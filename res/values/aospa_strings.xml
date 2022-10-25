@@ -153,4 +153,7 @@
     <string name="qs_transparency_title">Background opacity</string>
     <string name="qs_transparency_summary">Set opacity level for QS background</string>
 
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Additional sounds</string>
+
 </resources>
