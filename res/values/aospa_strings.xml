@@ -33,4 +33,8 @@
 
     <!-- Summary of the lock screen auto pin confirm setting. [CHAR LIMIT=NONE] -->
     <string name="lock_screen_auto_pin_confirm_summary">Unlock automatically if you input a correct PIN of 4 digits or more. This is slightly less secure than tapping Enter to confirm.</string>
+
+    <!-- Status bar Icon Manager -->
+    <string name="icon_manager_title">Icon manager</string>
+    <string name="icon_manager_summary">Control visibility of status bar icons</string>
 </resources>
