@@ -24,6 +24,7 @@ import co.aospa.settings.sound.AdaptivePlaybackSoundSettings;
 import co.aospa.settings.statusbar.NetworkTrafficSettings;
 import co.aospa.settings.powermenu.PowerMenuActions;
 import co.aospa.settings.edgelight.EdgeLightSettings;
+import co.aospa.settings.security.HideDeveloperStatusSettings;
 
 import com.android.settings.AllInOneTetherSettings;
 import com.android.settings.DisplaySettings;
@@ -362,6 +363,7 @@ public class SettingsGateway {
             NetworkTrafficSettings.class.getName(),
             PowerMenuActions.class.getName(),
             EdgeLightSettings.class.getName(),
+            HideDeveloperStatusSettings.class.getName(),
             ManageDomainUrls.class.getName(),
             AutomaticStorageManagerSettings.class.getName(),
             StorageDashboardFragment.class.getName(),
