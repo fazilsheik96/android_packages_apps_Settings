@@ -85,6 +85,12 @@
             android:summary="@string/summary_placeholder"
             android:fragment="com.android.settings.display.ScreenTimeoutSettings"
             settings:controller="com.android.settings.display.ScreenTimeoutPreferenceController"/>
+
+        <Preference
+            android:key="always_on_display_schedule"
+            android:title="@string/always_on_display_schedule_title"
+            android:summary="@string/aod_schedule_summary"
+            android:fragment="com.android.settings.dashboard.AODSchedule" />
     </PreferenceCategory>
 
     <PreferenceCategory
