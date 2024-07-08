@@ -164,4 +164,8 @@
     <string name="pixel_navbar_anim_title">Pixel animation</string>
     <string name="pixel_navbar_anim_summary">Toggle home button animation</string>
 
+    <!-- Volume Panel left -->
+    <string name="volume_panel_on_left_title">Show panel on left</string>
+    <string name="volume_panel_on_left_summary">Display volume panel on the left side of the screen</string>
+
 </resources>
