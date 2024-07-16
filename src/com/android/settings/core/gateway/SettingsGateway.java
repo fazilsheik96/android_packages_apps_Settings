@@ -22,6 +22,7 @@ import co.aospa.settings.gestures.VolumeButtonMusicControlGestureSettings;
 import co.aospa.settings.gestures.PowerButtonTorchSettings;
 import co.aospa.settings.sound.AdaptivePlaybackSoundSettings;
 import co.aospa.settings.statusbar.NetworkTrafficSettings;
+import co.aospa.settings.powermenu.PowerMenuActions;
 
 import com.android.settings.AllInOneTetherSettings;
 import com.android.settings.DisplaySettings;
@@ -358,6 +359,7 @@ public class SettingsGateway {
             PowerButtonTorchSettings.class.getName(),
             AdaptivePlaybackSoundSettings.class.getName(),
             NetworkTrafficSettings.class.getName(),
+            PowerMenuActions.class.getName(),
             ManageDomainUrls.class.getName(),
             AutomaticStorageManagerSettings.class.getName(),
             StorageDashboardFragment.class.getName(),
