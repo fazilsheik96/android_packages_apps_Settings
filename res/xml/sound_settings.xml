@@ -216,11 +216,18 @@
         android:dependency="volume_panel_expandable"
         android:order="-51"/>
 
+    <co.aospa.framework.preference.SystemSettingSwitchPreference
+        android:key="volume_panel_media_output"
+        android:title="@string/volume_panel_media_output_title"
+        android:summary="@string/volume_panel_media_output_summary"
+        android:defaultValue="true"
+        android:order="-50"/>
+
     <!-- Dial pad tones -->
     <SwitchPreferenceCompat
         android:key="dial_pad_tones"
         android:title="@string/dial_pad_tones_title"
-        android:order="-50"/>
+        android:order="-49"/>
 
     <!-- Screen locking sounds -->
     <SwitchPreferenceCompat
