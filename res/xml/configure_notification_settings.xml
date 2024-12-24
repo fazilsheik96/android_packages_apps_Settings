@@ -202,5 +202,15 @@
             android:summary="@string/edge_light_summary"
             android:fragment="co.aospa.settings.edgelight.EdgeLightSettings" />
 
+        <co.aospa.framework.preference.SystemSettingSeekBarPreference
+            android:key="qs_transparency"
+            android:title="@string/qs_transparency_title"
+            android:summary="@string/qs_transparency_summary"
+            android:defaultValue="75"
+            settings:interval="1"
+            settings:units="%"
+            android:max="100"
+            android:min="1" />
+
     </PreferenceCategory>
 </PreferenceScreen>

@@ -149,4 +149,8 @@
     <string name="pattern_da_da_dzzz" translatable="false">da-da-dzzz</string>
     <string name="pattern_da_dzzz_da" translatable="false">da-dzzz-da</string>
 
+    <!-- QS Transparency -->
+    <string name="qs_transparency_title">Background opacity</string>
+    <string name="qs_transparency_summary">Set opacity level for QS background</string>
+
 </resources>
